@@ -1,0 +1,26 @@
+.contentContainer {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  height: 100%;
+}
+
+.left {
+  padding: 100px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+}
+
+.left h1 {
+  font-size: 4.5rem;
+}
+
+.right {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+}
