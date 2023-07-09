@@ -1,5 +1,5 @@
 import "./homeContent.css";
-import image from "../../assets/images/image.png";
+import image from "../../assets/images/Image.png";
 
 const HomeContent = () => {
   return (
